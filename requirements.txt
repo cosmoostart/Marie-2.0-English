@@ -1,4 +1,3 @@
-$ pip install --upgrade -r requirements.txt
 future
 emoji
 requests
